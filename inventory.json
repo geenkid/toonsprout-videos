@@ -165,10 +165,14 @@
    "youtube_title": "A camping trip goes very wrong (Sprite Fright Part 1) #shorts",
    "caption": "Five students, one forest, and a nature nerd nobody listens to. Then they find something new. Follow for Part 2.",
    "tiktok": {
-    "status": "ready"
+    "status": "scheduled",
+    "buffer_post_id": "6b05c87320f9e770f07d811e",
+    "due": "2026-11-26T09:00:00-05:00"
    },
    "youtube": {
-    "status": "ready"
+    "status": "scheduled",
+    "buffer_post_id": "6b05c87804f9f3a5e6fdd018",
+    "due": "2026-11-27T09:00:00-05:00"
    },
    "stats": {}
   },
@@ -190,10 +194,14 @@
    "youtube_title": "The cute forest creatures aren't so cute (Sprite Fright Part 2) #shorts",
    "caption": "Tiny mushroom people offer them tea. What could go wrong? Part 3 next.",
    "tiktok": {
-    "status": "ready"
+    "status": "scheduled",
+    "buffer_post_id": "6b05c8749694e6b5670490c7",
+    "due": "2026-11-26T12:00:00-05:00"
    },
    "youtube": {
-    "status": "ready"
+    "status": "scheduled",
+    "buffer_post_id": "6b05c8799694e6b5670493b0",
+    "due": "2026-11-27T12:00:00-05:00"
    },
    "stats": {}
   },
@@ -215,10 +223,14 @@
    "youtube_title": "Run!!! (Sprite Fright Part 3) #shorts",
    "caption": "The sprites are done being polite. Who makes it out? Part 4 next, follow for the ending.",
    "tiktok": {
-    "status": "ready"
+    "status": "scheduled",
+    "buffer_post_id": "6b05c875bd6e90a3281b0246",
+    "due": "2026-11-26T16:00:00-05:00"
    },
    "youtube": {
-    "status": "ready"
+    "status": "scheduled",
+    "buffer_post_id": "6b05c87a9694e6b56704957d",
+    "due": "2026-11-28T09:00:00-05:00"
    },
    "stats": {}
   },
@@ -240,10 +252,14 @@
    "youtube_title": "Only one way out of this forest (Sprite Fright Part 4, finale) #shorts",
    "caption": "The ending flips the whole story. Who were the real monsters? Tell us below, and follow for the next story.",
    "tiktok": {
-    "status": "ready"
+    "status": "scheduled",
+    "buffer_post_id": "6b05c8773f48af62c2221572",
+    "due": "2026-11-27T09:00:00-05:00"
    },
    "youtube": {
-    "status": "ready"
+    "status": "scheduled",
+    "buffer_post_id": "6b05c87b3f48af62c2221a9e",
+    "due": "2026-11-28T12:00:00-05:00"
    },
    "stats": {}
   }
