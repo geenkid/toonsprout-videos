@@ -19,14 +19,15 @@
    "youtube_title": "She's alone, wounded, and hunting a dragon (Sintel Part 1) #shorts",
    "caption": "A stranger saves her life. But why would anyone hunt a dragon alone? Follow for Part 2.",
    "tiktok": {
-    "status": "scheduled",
+    "status": "sending",
     "buffer_post_id": "6b05c48c9694e6b5670252dc",
-    "due": "2026-11-25T09:00:00-05:00"
+    "due": "2026-11-24T12:18:00-05:00"
    },
    "youtube": {
-    "status": "scheduled",
+    "status": "published",
     "buffer_post_id": "6b05c48d20f9e770f07b9cab",
-    "due": "2026-11-25T09:00:00-05:00"
+    "due": "2026-11-24T12:18:00-05:00",
+    "link": "https://www.youtube.com/watch?v=vNTRFHNPwxw"
    },
    "stats": {}
   },
@@ -50,12 +51,12 @@
    "tiktok": {
     "status": "scheduled",
     "buffer_post_id": "6b05c48ebd6e90a32818cbd5",
-    "due": "2026-11-25T12:00:00-05:00"
+    "due": "2026-11-24T16:00:00-05:00"
    },
    "youtube": {
     "status": "scheduled",
     "buffer_post_id": "6b05c48fbd6e90a32818cc55",
-    "due": "2026-11-25T12:00:00-05:00"
+    "due": "2026-11-25T09:00:00-05:00"
    },
    "stats": {}
   },
@@ -79,12 +80,12 @@
    "tiktok": {
     "status": "scheduled",
     "buffer_post_id": "6b05c49104f9f3a5e6fbdbe4",
-    "due": "2026-11-25T16:00:00-05:00"
+    "due": "2026-11-25T09:00:00-05:00"
    },
    "youtube": {
     "status": "scheduled",
     "buffer_post_id": "6b05c4cba1fe31a32b2b5edc",
-    "due": "2026-11-26T09:00:00-05:00"
+    "due": "2026-11-25T12:00:00-05:00"
    },
    "stats": {}
   },
@@ -108,12 +109,12 @@
    "tiktok": {
     "status": "scheduled",
     "buffer_post_id": "6b05c4939694e6b5670255bd",
-    "due": "2026-11-26T09:00:00-05:00"
+    "due": "2026-11-25T12:00:00-05:00"
    },
    "youtube": {
     "status": "scheduled",
     "buffer_post_id": "6b05c4cca1fe31a32b2b5f55",
-    "due": "2026-11-26T12:00:00-05:00"
+    "due": "2026-11-26T09:00:00-05:00"
    },
    "stats": {}
   },
@@ -137,12 +138,12 @@
    "tiktok": {
     "status": "scheduled",
     "buffer_post_id": "6b05c495bd6e90a32818ce83",
-    "due": "2026-11-26T12:00:00-05:00"
+    "due": "2026-11-25T16:00:00-05:00"
    },
    "youtube": {
     "status": "scheduled",
     "buffer_post_id": "6b05c4cd3f48af62c2203580",
-    "due": "2026-11-27T09:00:00-05:00"
+    "due": "2026-11-26T12:00:00-05:00"
    },
    "stats": {}
   },
