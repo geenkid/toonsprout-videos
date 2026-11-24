@@ -1,0 +1,283 @@
+{
+ "rules_see": "RUNBOOK.md",
+ "episodes": [
+  {
+   "id": "sintel-1",
+   "series": "Sintel",
+   "part": 1,
+   "total": 5,
+   "source": "https://download.blender.org/durian/movies/Sintel.2010.1080p.mkv",
+   "license": "CC BY 3.0",
+   "evidence": "https://archive.org/details/Sintel (licenseurl CC BY 3.0); Blender Foundation open movie",
+   "credit": "\"Sintel\" (c) Blender Foundation, durian.blender.org. Licensed CC BY 3.0 (creativecommons.org/licenses/by/3.0). Edited into vertical episodes with subtitles.",
+   "cut": [
+    33,
+    158
+   ],
+   "hook": "Alone. Wounded.|Hunting a dragon.",
+   "file_url": "https://raw.githubusercontent.com/geenkid/toonsprout-videos/media/sintel/sintel_part1.mp4",
+   "youtube_title": "She's alone, wounded, and hunting a dragon (Sintel Part 1) #shorts",
+   "caption": "A stranger saves her life. But why would anyone hunt a dragon alone? Follow for Part 2.",
+   "tiktok": {
+    "status": "scheduled",
+    "buffer_post_id": "6b05c48c9694e6b5670252dc",
+    "due": "2026-11-25T09:00:00-05:00"
+   },
+   "youtube": {
+    "status": "scheduled",
+    "buffer_post_id": "6b05c48d20f9e770f07b9cab",
+    "due": "2026-11-25T09:00:00-05:00"
+   },
+   "stats": {}
+  },
+  {
+   "id": "sintel-2",
+   "series": "Sintel",
+   "part": 2,
+   "total": 5,
+   "source": "https://download.blender.org/durian/movies/Sintel.2010.1080p.mkv",
+   "license": "CC BY 3.0",
+   "evidence": "https://archive.org/details/Sintel (licenseurl CC BY 3.0); Blender Foundation open movie",
+   "credit": "\"Sintel\" (c) Blender Foundation, durian.blender.org. Licensed CC BY 3.0 (creativecommons.org/licenses/by/3.0). Edited into vertical episodes with subtitles.",
+   "cut": [
+    158,
+    330.4
+   ],
+   "hook": "Her only friend|was a baby dragon.",
+   "file_url": "https://raw.githubusercontent.com/geenkid/toonsprout-videos/media/sintel/sintel_part2.mp4",
+   "youtube_title": "Her only friend was a baby dragon (Sintel Part 2) #shorts",
+   "caption": "She found a wounded baby dragon and named him Scales. Then everything changed. Part 3 next, follow so you don't miss it.",
+   "tiktok": {
+    "status": "scheduled",
+    "buffer_post_id": "6b05c48ebd6e90a32818cbd5",
+    "due": "2026-11-25T12:00:00-05:00"
+   },
+   "youtube": {
+    "status": "scheduled",
+    "buffer_post_id": "6b05c48fbd6e90a32818cc55",
+    "due": "2026-11-25T12:00:00-05:00"
+   },
+   "stats": {}
+  },
+  {
+   "id": "sintel-3",
+   "series": "Sintel",
+   "part": 3,
+   "total": 5,
+   "source": "https://download.blender.org/durian/movies/Sintel.2010.1080p.mkv",
+   "license": "CC BY 3.0",
+   "evidence": "https://archive.org/details/Sintel (licenseurl CC BY 3.0); Blender Foundation open movie",
+   "credit": "\"Sintel\" (c) Blender Foundation, durian.blender.org. Licensed CC BY 3.0 (creativecommons.org/licenses/by/3.0). Edited into vertical episodes with subtitles.",
+   "cut": [
+    330.4,
+    483.7
+   ],
+   "hook": "Years of searching.|Then, a clue.",
+   "file_url": "https://raw.githubusercontent.com/geenkid/toonsprout-videos/media/sintel/sintel_part3.mp4",
+   "youtube_title": "Years of searching, then one clue (Sintel Part 3) #shorts",
+   "caption": "She never stopped looking for Scales. An old shaman says she's closer than she knows. Part 4 next.",
+   "tiktok": {
+    "status": "scheduled",
+    "buffer_post_id": "6b05c49104f9f3a5e6fbdbe4",
+    "due": "2026-11-25T16:00:00-05:00"
+   },
+   "youtube": {
+    "status": "scheduled",
+    "buffer_post_id": "6b05c4cba1fe31a32b2b5edc",
+    "due": "2026-11-26T09:00:00-05:00"
+   },
+   "stats": {}
+  },
+  {
+   "id": "sintel-4",
+   "series": "Sintel",
+   "part": 4,
+   "total": 5,
+   "source": "https://download.blender.org/durian/movies/Sintel.2010.1080p.mkv",
+   "license": "CC BY 3.0",
+   "evidence": "https://archive.org/details/Sintel (licenseurl CC BY 3.0); Blender Foundation open movie",
+   "credit": "\"Sintel\" (c) Blender Foundation, durian.blender.org. Licensed CC BY 3.0 (creativecommons.org/licenses/by/3.0). Edited into vertical episodes with subtitles.",
+   "cut": [
+    483.7,
+    599.0
+   ],
+   "hook": "The dragon's lair.|No turning back.",
+   "file_url": "https://raw.githubusercontent.com/geenkid/toonsprout-videos/media/sintel/sintel_part4.mp4",
+   "youtube_title": "Inside the dragon's lair (Sintel Part 4) #shorts",
+   "caption": "She finally reaches the dragon. There's no turning back now. Final part next, follow for the ending.",
+   "tiktok": {
+    "status": "scheduled",
+    "buffer_post_id": "6b05c4939694e6b5670255bd",
+    "due": "2026-11-26T09:00:00-05:00"
+   },
+   "youtube": {
+    "status": "scheduled",
+    "buffer_post_id": "6b05c4cca1fe31a32b2b5f55",
+    "due": "2026-11-26T12:00:00-05:00"
+   },
+   "stats": {}
+  },
+  {
+   "id": "sintel-5",
+   "series": "Sintel",
+   "part": 5,
+   "total": 5,
+   "source": "https://download.blender.org/durian/movies/Sintel.2010.1080p.mkv",
+   "license": "CC BY 3.0",
+   "evidence": "https://archive.org/details/Sintel (licenseurl CC BY 3.0); Blender Foundation open movie",
+   "credit": "\"Sintel\" (c) Blender Foundation, durian.blender.org. Licensed CC BY 3.0 (creativecommons.org/licenses/by/3.0). Edited into vertical episodes with subtitles.",
+   "cut": [
+    599.0,
+    744.0
+   ],
+   "hook": "Wait for|the twist...",
+   "file_url": "https://raw.githubusercontent.com/geenkid/toonsprout-videos/media/sintel/sintel_part5.mp4",
+   "youtube_title": "The twist ending of Sintel (Part 5, finale) #shorts",
+   "caption": "The ending nobody sees coming. Did you guess it? Tell us in the comments, and follow for the next story.",
+   "tiktok": {
+    "status": "scheduled",
+    "buffer_post_id": "6b05c495bd6e90a32818ce83",
+    "due": "2026-11-26T12:00:00-05:00"
+   },
+   "youtube": {
+    "status": "scheduled",
+    "buffer_post_id": "6b05c4cd3f48af62c2203580",
+    "due": "2026-11-27T09:00:00-05:00"
+   },
+   "stats": {}
+  },
+  {
+   "id": "sprite-fright-1",
+   "series": "Sprite Fright",
+   "part": 1,
+   "total": 4,
+   "source": "https://dn600307.us.archive.org/0/items/sprite-fright-2021/Sprite%20Fright%20%282021%29.mkv",
+   "license": "CC BY 4.0",
+   "evidence": "https://archive.org/details/sprite-fright-2021 (licenseurl CC BY 4.0, creator Blender Studio)",
+   "credit": "\"Sprite Fright\" (c) Blender Studio, studio.blender.org. Licensed CC BY 4.0 (creativecommons.org/licenses/by/4.0). Edited into vertical episodes with subtitles.",
+   "cut": [
+    13,
+    190
+   ],
+   "hook": "Camping trip.|What could go wrong?",
+   "file_url": "https://raw.githubusercontent.com/geenkid/toonsprout-videos/media/spritefright/spritefright_part1.mp4",
+   "youtube_title": "A camping trip goes very wrong (Sprite Fright Part 1) #shorts",
+   "caption": "Five students, one forest, and a nature nerd nobody listens to. Then they find something new. Follow for Part 2.",
+   "tiktok": {
+    "status": "ready"
+   },
+   "youtube": {
+    "status": "ready"
+   },
+   "stats": {}
+  },
+  {
+   "id": "sprite-fright-2",
+   "series": "Sprite Fright",
+   "part": 2,
+   "total": 4,
+   "source": "https://dn600307.us.archive.org/0/items/sprite-fright-2021/Sprite%20Fright%20%282021%29.mkv",
+   "license": "CC BY 4.0",
+   "evidence": "https://archive.org/details/sprite-fright-2021 (licenseurl CC BY 4.0, creator Blender Studio)",
+   "credit": "\"Sprite Fright\" (c) Blender Studio, studio.blender.org. Licensed CC BY 4.0 (creativecommons.org/licenses/by/4.0). Edited into vertical episodes with subtitles.",
+   "cut": [
+    190,
+    282
+   ],
+   "hook": "The cute forest|creatures...|aren't so cute.",
+   "file_url": "https://raw.githubusercontent.com/geenkid/toonsprout-videos/media/spritefright/spritefright_part2.mp4",
+   "youtube_title": "The cute forest creatures aren't so cute (Sprite Fright Part 2) #shorts",
+   "caption": "Tiny mushroom people offer them tea. What could go wrong? Part 3 next.",
+   "tiktok": {
+    "status": "ready"
+   },
+   "youtube": {
+    "status": "ready"
+   },
+   "stats": {}
+  },
+  {
+   "id": "sprite-fright-3",
+   "series": "Sprite Fright",
+   "part": 3,
+   "total": 4,
+   "source": "https://dn600307.us.archive.org/0/items/sprite-fright-2021/Sprite%20Fright%20%282021%29.mkv",
+   "license": "CC BY 4.0",
+   "evidence": "https://archive.org/details/sprite-fright-2021 (licenseurl CC BY 4.0, creator Blender Studio)",
+   "credit": "\"Sprite Fright\" (c) Blender Studio, studio.blender.org. Licensed CC BY 4.0 (creativecommons.org/licenses/by/4.0). Edited into vertical episodes with subtitles.",
+   "cut": [
+    282,
+    398
+   ],
+   "hook": "Run!!!",
+   "file_url": "https://raw.githubusercontent.com/geenkid/toonsprout-videos/media/spritefright/spritefright_part3.mp4",
+   "youtube_title": "Run!!! (Sprite Fright Part 3) #shorts",
+   "caption": "The sprites are done being polite. Who makes it out? Part 4 next, follow for the ending.",
+   "tiktok": {
+    "status": "ready"
+   },
+   "youtube": {
+    "status": "ready"
+   },
+   "stats": {}
+  },
+  {
+   "id": "sprite-fright-4",
+   "series": "Sprite Fright",
+   "part": 4,
+   "total": 4,
+   "source": "https://dn600307.us.archive.org/0/items/sprite-fright-2021/Sprite%20Fright%20%282021%29.mkv",
+   "license": "CC BY 4.0",
+   "evidence": "https://archive.org/details/sprite-fright-2021 (licenseurl CC BY 4.0, creator Blender Studio)",
+   "credit": "\"Sprite Fright\" (c) Blender Studio, studio.blender.org. Licensed CC BY 4.0 (creativecommons.org/licenses/by/4.0). Edited into vertical episodes with subtitles.",
+   "cut": [
+    398,
+    562
+   ],
+   "hook": "Only one way|out of this forest.",
+   "file_url": "https://raw.githubusercontent.com/geenkid/toonsprout-videos/media/spritefright/spritefright_part4.mp4",
+   "youtube_title": "Only one way out of this forest (Sprite Fright Part 4, finale) #shorts",
+   "caption": "The ending flips the whole story. Who were the real monsters? Tell us below, and follow for the next story.",
+   "tiktok": {
+    "status": "ready"
+   },
+   "youtube": {
+    "status": "ready"
+   },
+   "stats": {}
+  }
+ ],
+ "test_posts": [
+  {
+   "note": "private YouTube test of Sintel Part 1, not public",
+   "buffer_post_id": "6b05c3acbd6e90a328184dea",
+   "url": "https://www.youtube.com/watch?v=m-vI4Uy3TIE"
+  }
+ ],
+ "source_queue": [
+  {
+   "series": "Big Buck Bunny",
+   "download": "https://download.blender.org/demo/movies/BBB/bbb_sunflower_1080p_30fps_normal.mp4.zip",
+   "license": "CC BY 3.0",
+   "evidence": "Blender Foundation Peach open movie, peach.blender.org (confirm license text on download)",
+   "notes": "No dialogue: no subtitles needed; use on-screen story captions instead",
+   "genre": "funny, underdog"
+  },
+  {
+   "series": "Caminandes: Gran Dillama",
+   "download": "https://download.blender.org/demo/movies/caminandes_gran_dillama.mp4.zip",
+   "license": "CC BY (confirm version)",
+   "evidence": "Blender Foundation / caminandes.com",
+   "notes": "~2.5 min, one episode, no dialogue",
+   "genre": "funny animal"
+  },
+  {
+   "series": "Gulliver's Travels (1939)",
+   "download": "https://dn601207.us.archive.org/0/items/BBOGulliversTravels1939/",
+   "license": "Public Domain Mark 1.0",
+   "evidence": "https://archive.org/details/BBOGulliversTravels1939 (licenseurl publicdomain/mark/1.0)",
+   "notes": "76 min, ~25 parts; needs speech-to-text subtitles (faster-whisper; model download needs huggingface.co allowed)",
+   "genre": "episodic cartoon adventure"
+  }
+ ]
+}
