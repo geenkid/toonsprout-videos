@@ -38,6 +38,6 @@ fc=(f"[0:v]split[a][b];[a]scale=-2:1920,crop=1080:1920,boxblur=30:3,eq=brightnes
  f"drawtext=fontfile={F}:textfile={d}/hook.txt:fontsize=72:fontcolor=white:box=1:boxcolor=black@0.55:boxborderw=24:line_spacing=12:x=(w-tw)/2:y=1330:enable='lt(t,3.5)',"
  f"drawtext=fontfile={F}:textfile={d}/credit.txt:fontsize=26:fontcolor=white@0.7:x=(w-tw)/2:y=h-90,format=yuv420p[v]")
 subprocess.run(['ffmpeg','-v','error','-y','-ss',str(start),'-t',str(end-start),'-i',src,'-filter_complex',fc,
- '-map','[v]','-map','0:a','-dn','-map_chapters','-1','-c:v','libx264','-preset','medium','-crf','20','-maxrate','3500k','-bufsize','7000k','-profile:v','high','-r','24',
+ '-map','[v]','-map','0:a:0','-dn','-map_chapters','-1','-c:v','libx264','-preset','medium','-crf','20','-maxrate','3500k','-bufsize','7000k','-profile:v','high','-r','24',
  '-c:a','aac','-b:a','160k','-ac','2','-af','loudnorm=I=-14:TP=-1.5','-movflags','+faststart',out],check=True)
 print(out,'ok')

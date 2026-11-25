@@ -30,7 +30,26 @@
     "due": "2026-11-24T12:18:00-05:00",
     "link": "https://www.youtube.com/watch?v=vNTRFHNPwxw"
    },
-   "stats": {}
+   "stats": {
+    "tiktok": {
+     "2026-11-24": {
+      "views": 0,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "note": "2026-11-24 19:45 ET (Buffer metrics last refreshed before/at send; not yet populated)"
+     }
+    },
+    "youtube": {
+     "2026-11-24": {
+      "views": 0,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "note": "2026-11-24 19:45 ET (Buffer metrics last refreshed before/at send; not yet populated)"
+     }
+    }
+   }
   },
   {
    "id": "sintel-2",
@@ -50,16 +69,27 @@
    "youtube_title": "Her only friend was a baby dragon (Sintel Part 2) #shorts",
    "caption": "She found a wounded baby dragon and named him Scales. Then everything changed. Part 3 next, follow so you don't miss it.",
    "tiktok": {
-    "status": "scheduled",
+    "status": "published",
     "buffer_post_id": "6b05c48ebd6e90a32818cbd5",
-    "due": "2026-11-24T16:00:00-05:00"
+    "due": "2026-11-24T16:00:00-05:00",
+    "link": "https://tiktok.com/@toonsprout0/video/7711845872400682254"
    },
    "youtube": {
     "status": "scheduled",
     "buffer_post_id": "6b05c48fbd6e90a32818cc55",
     "due": "2026-11-25T09:00:00-05:00"
    },
-   "stats": {}
+   "stats": {
+    "tiktok": {
+     "2026-11-24": {
+      "views": 0,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "note": "2026-11-24 19:45 ET (Buffer metrics last refreshed before/at send; not yet populated)"
+     }
+    }
+   }
   },
   {
    "id": "sintel-3",
@@ -263,6 +293,88 @@
     "due": "2026-11-28T12:00:00-05:00"
    },
    "stats": {}
+  },
+  {
+   "id": "big-buck-bunny-1",
+   "part": 1,
+   "series": "Big Buck Bunny",
+   "total": 3,
+   "source": "https://download.blender.org/demo/movies/BBB/bbb_sunflower_1080p_30fps_normal.mp4.zip",
+   "license": "CC BY 3.0",
+   "evidence": "Source file metadata comment: 'Creative Commons Attribution 3.0 - http://bbb3d.renderfarming.net'; end card 'Licensed as Creative Commons Attribution 3.0'; Blender Foundation Peach open movie (peach.blender.org)",
+   "credit": "\"Big Buck Bunny\" (c) Blender Foundation, bigbuckbunny.org, CC BY 3.0",
+   "captions": "story captions (no dialogue), see pipeline thread 2026-11-24",
+   "cut": [
+    20.2,
+    180.6
+   ],
+   "hook": "Never bully|the gentle bunny.",
+   "file_url": "https://raw.githubusercontent.com/geenkid/toonsprout-videos/media/bigbuckbunny/bbb_part1.mp4",
+   "youtube_title": "Never bully the gentle bunny (Big Buck Bunny Part 1) #shorts",
+   "caption": "All he wanted was a peaceful morning, but three forest bullies have other plans. Follow for Part 2.",
+   "tiktok": {
+    "status": "scheduled",
+    "buffer_post_id": "6b063341615ec212af76fc6e",
+    "due": "2026-11-27T12:00:00-05:00"
+   },
+   "youtube": {
+    "status": "rendered"
+   },
+   "stats": {}
+  },
+  {
+   "id": "big-buck-bunny-2",
+   "part": 2,
+   "series": "Big Buck Bunny",
+   "total": 3,
+   "source": "https://download.blender.org/demo/movies/BBB/bbb_sunflower_1080p_30fps_normal.mp4.zip",
+   "license": "CC BY 3.0",
+   "evidence": "Source file metadata comment: 'Creative Commons Attribution 3.0 - http://bbb3d.renderfarming.net'; end card 'Licensed as Creative Commons Attribution 3.0'; Blender Foundation Peach open movie (peach.blender.org)",
+   "credit": "\"Big Buck Bunny\" (c) Blender Foundation, bigbuckbunny.org, CC BY 3.0",
+   "captions": "story captions (no dialogue), see pipeline thread 2026-11-24",
+   "cut": [
+    180.6,
+    344.2
+   ],
+   "hook": "They hurt|his butterfly.",
+   "file_url": "https://raw.githubusercontent.com/geenkid/toonsprout-videos/media/bigbuckbunny/bbb_part2.mp4",
+   "youtube_title": "They hurt his butterfly. Big mistake. (Big Buck Bunny Part 2) #shorts",
+   "caption": "They hurt his butterfly. Big mistake. Now the gentle bunny has a plan. Part 3 next, follow for the payback.",
+   "tiktok": {
+    "status": "scheduled",
+    "buffer_post_id": "6b063343f0b405190acab83a",
+    "due": "2026-11-27T16:00:00-05:00"
+   },
+   "youtube": {
+    "status": "rendered"
+   },
+   "stats": {}
+  },
+  {
+   "id": "big-buck-bunny-3",
+   "part": 3,
+   "series": "Big Buck Bunny",
+   "total": 3,
+   "source": "https://download.blender.org/demo/movies/BBB/bbb_sunflower_1080p_30fps_normal.mp4.zip",
+   "license": "CC BY 3.0",
+   "evidence": "Source file metadata comment: 'Creative Commons Attribution 3.0 - http://bbb3d.renderfarming.net'; end card 'Licensed as Creative Commons Attribution 3.0'; Blender Foundation Peach open movie (peach.blender.org)",
+   "credit": "\"Big Buck Bunny\" (c) Blender Foundation, bigbuckbunny.org, CC BY 3.0",
+   "captions": "story captions (no dialogue), see pipeline thread 2026-11-24",
+   "cut": [
+    344.2,
+    490.7
+   ],
+   "hook": "Payback|time.",
+   "file_url": "https://raw.githubusercontent.com/geenkid/toonsprout-videos/media/bigbuckbunny/bbb_part3.mp4",
+   "youtube_title": "Payback time (Big Buck Bunny Part 3, finale) #shorts",
+   "caption": "The traps are set and the bullies walk right in. Who wins? Tell us below, and follow for the next story.",
+   "tiktok": {
+    "status": "rendered"
+   },
+   "youtube": {
+    "status": "rendered"
+   },
+   "stats": {}
   }
  ],
  "test_posts": [
@@ -273,14 +385,6 @@
   }
  ],
  "source_queue": [
-  {
-   "series": "Big Buck Bunny",
-   "download": "https://download.blender.org/demo/movies/BBB/bbb_sunflower_1080p_30fps_normal.mp4.zip",
-   "license": "CC BY 3.0",
-   "evidence": "Blender Foundation Peach open movie, peach.blender.org (confirm license text on download)",
-   "notes": "No dialogue: no subtitles needed; use on-screen story captions instead",
-   "genre": "funny, underdog"
-  },
   {
    "series": "Caminandes: Gran Dillama",
    "download": "https://download.blender.org/demo/movies/caminandes_gran_dillama.mp4.zip",
