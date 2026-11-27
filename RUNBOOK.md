@@ -22,6 +22,7 @@ This branch (`pipeline`) holds the tooling and the content inventory. Finished v
 
 - TikTok: 9:00 AM, 12:00 PM, 4:00 PM (3 a day).
 - YouTube: 9:00 AM and 12:00 PM only. Buffer refused a 3rd YouTube post in one day ("maximum YouTube allows in a day (2)"). If that limit lifts, add 4:00 PM.
+  - The YouTube limit is a ROLLING 24 h window and Buffer sends a few minutes late, so a plain 9 AM + 12 PM every day fails (failed 11-25 and 11-26). Rule: each YouTube post must be more than 24 h after the YouTube post two before it. With the 9 AM / 12 PM slots that is the repeating pattern "9+12, 12, 9" (4 posts per 3 days). See `youtube_spacing_rule` in inventory.json.
 - Buffer free plan: at most 10 scheduled posts per channel. Keep each channel 3 days ahead, no more.
 
 ## Each day
