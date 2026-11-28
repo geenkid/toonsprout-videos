@@ -669,7 +669,7 @@
    "source": "https://download.blender.org/ED/elephantsdream-720-h264-st-aac.mov",
    "license": "CC BY 2.5 (archive.org lists CC BY 3.0 US)",
    "evidence": "https://archive.org/details/ElephantsDream (licenseurl creativecommons.org/licenses/by/3.0/us, creator Orange Open Movie Project Studio); film released by Blender Foundation / Netherlands Media Art Institute under CC BY 2.5 (elephantsdream.org)",
-   "captions": "NO dialogue subtitles (no speech-to-text available: huggingface.co blocked). Only an end-of-part follow caption. Hold until Hunter OKs posting without dialogue subs.",
+   "captions": "No dialogue subtitles (speech-to-text unavailable). Hunter approved posting without them on 2026-11-27 (decision card). Only an end-of-part follow caption.",
    "cut": [
     25.8,
     152
@@ -677,12 +677,13 @@
    "file_url": "https://raw.githubusercontent.com/geenkid/toonsprout-videos/media/elephantsdream/ed_part1.mp4",
    "youtube_title": "Two strangers trapped in an endless machine (Elephants Dream Part 1) #shorts",
    "tiktok": {
-    "status": "rendered",
-    "hold": "awaiting subtitle decision 2026-11-27"
+    "status": "scheduled",
+    "buffer_post_id": "6b0a3fabeada83daa6bbbd97",
+    "due": "2026-11-28T16:00:00-05:00"
    },
    "youtube": {
     "status": "rendered",
-    "hold": "awaiting subtitle decision 2026-11-27"
+    "note": "YouTube order: Big Buck Bunny 1-3 and Caminandes come first"
    },
    "stats": {}
   },
@@ -694,7 +695,7 @@
    "source": "https://download.blender.org/ED/elephantsdream-720-h264-st-aac.mov",
    "license": "CC BY 2.5 (archive.org lists CC BY 3.0 US)",
    "evidence": "https://archive.org/details/ElephantsDream (licenseurl creativecommons.org/licenses/by/3.0/us, creator Orange Open Movie Project Studio); film released by Blender Foundation / Netherlands Media Art Institute under CC BY 2.5 (elephantsdream.org)",
-   "captions": "NO dialogue subtitles (no speech-to-text available: huggingface.co blocked). Only an end-of-part follow caption. Hold until Hunter OKs posting without dialogue subs.",
+   "captions": "No dialogue subtitles (speech-to-text unavailable). Hunter approved posting without them on 2026-11-27 (decision card). Only an end-of-part follow caption.",
    "cut": [
     152,
     282.1
@@ -702,12 +703,13 @@
    "file_url": "https://raw.githubusercontent.com/geenkid/toonsprout-videos/media/elephantsdream/ed_part2.mp4",
    "youtube_title": "The machine is alive (Elephants Dream Part 2) #shorts",
    "tiktok": {
-    "status": "rendered",
-    "hold": "awaiting subtitle decision 2026-11-27"
+    "status": "scheduled",
+    "buffer_post_id": "6b0a3faceada83daa6bbbe11",
+    "due": "2026-11-29T09:00:00-05:00"
    },
    "youtube": {
     "status": "rendered",
-    "hold": "awaiting subtitle decision 2026-11-27"
+    "note": "YouTube order: Big Buck Bunny 1-3 and Caminandes come first"
    },
    "stats": {}
   },
@@ -719,7 +721,7 @@
    "source": "https://download.blender.org/ED/elephantsdream-720-h264-st-aac.mov",
    "license": "CC BY 2.5 (archive.org lists CC BY 3.0 US)",
    "evidence": "https://archive.org/details/ElephantsDream (licenseurl creativecommons.org/licenses/by/3.0/us, creator Orange Open Movie Project Studio); film released by Blender Foundation / Netherlands Media Art Institute under CC BY 2.5 (elephantsdream.org)",
-   "captions": "NO dialogue subtitles (no speech-to-text available: huggingface.co blocked). Only an end-of-part follow caption. Hold until Hunter OKs posting without dialogue subs.",
+   "captions": "No dialogue subtitles (speech-to-text unavailable). Hunter approved posting without them on 2026-11-27 (decision card). Only an end-of-part follow caption.",
    "cut": [
     282.1,
     426.6
@@ -727,12 +729,13 @@
    "file_url": "https://raw.githubusercontent.com/geenkid/toonsprout-videos/media/elephantsdream/ed_part3.mp4",
    "youtube_title": "Something is wrong with the old man (Elephants Dream Part 3) #shorts",
    "tiktok": {
-    "status": "rendered",
-    "hold": "awaiting subtitle decision 2026-11-27"
+    "status": "scheduled",
+    "buffer_post_id": "6b0a3faeeab081a3f518ff3b",
+    "due": "2026-11-29T12:00:00-05:00"
    },
    "youtube": {
     "status": "rendered",
-    "hold": "awaiting subtitle decision 2026-11-27"
+    "note": "YouTube order: Big Buck Bunny 1-3 and Caminandes come first"
    },
    "stats": {}
   },
@@ -744,7 +747,7 @@
    "source": "https://download.blender.org/ED/elephantsdream-720-h264-st-aac.mov",
    "license": "CC BY 2.5 (archive.org lists CC BY 3.0 US)",
    "evidence": "https://archive.org/details/ElephantsDream (licenseurl creativecommons.org/licenses/by/3.0/us, creator Orange Open Movie Project Studio); film released by Blender Foundation / Netherlands Media Art Institute under CC BY 2.5 (elephantsdream.org)",
-   "captions": "NO dialogue subtitles (no speech-to-text available: huggingface.co blocked). Only an end-of-part follow caption. Hold until Hunter OKs posting without dialogue subs.",
+   "captions": "No dialogue subtitles (speech-to-text unavailable). Hunter approved posting without them on 2026-11-27 (decision card). Only an end-of-part follow caption.",
    "cut": [
     426.6,
     556
@@ -752,12 +755,13 @@
    "file_url": "https://raw.githubusercontent.com/geenkid/toonsprout-videos/media/elephantsdream/ed_part4.mp4",
    "youtube_title": "Who is really in control? (Elephants Dream Part 4, finale) #shorts",
    "tiktok": {
-    "status": "rendered",
-    "hold": "awaiting subtitle decision 2026-11-27"
+    "status": "scheduled",
+    "buffer_post_id": "6b0a3faf41454797eae472ab",
+    "due": "2026-11-29T16:00:00-05:00"
    },
    "youtube": {
     "status": "rendered",
-    "hold": "awaiting subtitle decision 2026-11-27"
+    "note": "YouTube order: Big Buck Bunny 1-3 and Caminandes come first"
    },
    "stats": {}
   }
