@@ -54,6 +54,14 @@
       "shares": 0,
       "avg_watch_s": 10.75,
       "note": "Buffer metrics refreshed 2026-11-26 (TikTok 09:55 ET, YouTube 13:26 ET)"
+     },
+     "2026-11-27": {
+      "views": 329,
+      "reactions": 17,
+      "comments": 0,
+      "shares": 0,
+      "source": "Buffer metrics, refreshed 2026-11-27 13:56Z (TikTok) / 21:31Z (YouTube)",
+      "avg_watch_s": 10.79
      }
     },
     "youtube": {
@@ -75,6 +83,13 @@
       "reactions": 0,
       "comments": 0,
       "note": "Buffer metrics refreshed 2026-11-26 (TikTok 09:55 ET, YouTube 13:26 ET)"
+     },
+     "2026-11-27": {
+      "views": 1,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "source": "Buffer metrics, refreshed 2026-11-27 13:56Z (TikTok) / 21:31Z (YouTube)"
      }
     }
    }
@@ -135,6 +150,23 @@
       "shares": 0,
       "avg_watch_s": 22.81,
       "note": "Buffer metrics refreshed 2026-11-26 (TikTok 09:55 ET, YouTube 13:26 ET)"
+     },
+     "2026-11-27": {
+      "views": 44,
+      "reactions": 2,
+      "comments": 0,
+      "shares": 0,
+      "source": "Buffer metrics, refreshed 2026-11-27 13:56Z (TikTok) / 21:31Z (YouTube)",
+      "avg_watch_s": 20.82
+     }
+    },
+    "youtube": {
+     "2026-11-27": {
+      "views": 0,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "source": "Buffer metrics, refreshed 2026-11-27 13:56Z (TikTok) / 21:31Z (YouTube)"
      }
     }
    }
@@ -185,6 +217,14 @@
       "shares": 0,
       "avg_watch_s": 12.24,
       "note": "Buffer metrics refreshed 2026-11-26 (TikTok 09:55 ET, YouTube 13:26 ET)"
+     },
+     "2026-11-27": {
+      "views": 97,
+      "reactions": 1,
+      "comments": 0,
+      "shares": 0,
+      "source": "Buffer metrics, refreshed 2026-11-27 13:56Z (TikTok) / 21:31Z (YouTube)",
+      "avg_watch_s": 11.88
      }
     },
     "youtube": {
@@ -199,6 +239,13 @@
       "reactions": 0,
       "comments": 0,
       "note": "Buffer metrics refreshed 2026-11-26 (TikTok 09:55 ET, YouTube 13:26 ET)"
+     },
+     "2026-11-27": {
+      "views": 0,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "source": "Buffer metrics, refreshed 2026-11-27 13:56Z (TikTok) / 21:31Z (YouTube)"
      }
     }
    }
@@ -227,12 +274,13 @@
     "link": "https://tiktok.com/@toonsprout0/video/7712156581999299854"
    },
    "youtube": {
-    "status": "scheduled",
+    "status": "published",
     "buffer_post_id": "6b05c4cca1fe31a32b2b5f55",
     "due": "2026-11-27T09:00:00-05:00",
     "history": [
      "2026-11-26 12:00 ET failed: Buffer \"daily posting limit for this channel has been reached\" (Sintel 3 sent 11-25 ~12:0x PM + Sintel 2 sent 11-26 9:04 AM = 2 in the rolling 24 h). Retried once by rescheduling the same post to 2026-11-27 09:00 ET; later YouTube posts re-spaced."
-    ]
+    ],
+    "link": "https://www.youtube.com/shorts/O87kvkJ2QZE"
    },
    "stats": {
     "tiktok": {
@@ -250,6 +298,23 @@
       "shares": 0,
       "avg_watch_s": 10.16,
       "note": "Buffer metrics refreshed 2026-11-26 (TikTok 09:55 ET, YouTube 13:26 ET)"
+     },
+     "2026-11-27": {
+      "views": 174,
+      "reactions": 7,
+      "comments": 0,
+      "shares": 0,
+      "source": "Buffer metrics, refreshed 2026-11-27 13:56Z (TikTok) / 21:31Z (YouTube)",
+      "avg_watch_s": 10.98
+     }
+    },
+    "youtube": {
+     "2026-11-27": {
+      "views": 0,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "source": "Buffer metrics, refreshed 2026-11-27 13:56Z (TikTok) / 21:31Z (YouTube)"
      }
     }
    }
@@ -278,9 +343,10 @@
     "link": "https://tiktok.com/@toonsprout0/video/7712217318406786317"
    },
    "youtube": {
-    "status": "scheduled",
+    "status": "published",
     "buffer_post_id": "6b05c4cd3f48af62c2203580",
-    "due": "2026-11-27T12:00:00-05:00"
+    "due": "2026-11-27T12:00:00-05:00",
+    "link": "https://www.youtube.com/shorts/ChJ23DfNZP8"
    },
    "stats": {
     "tiktok": {
@@ -298,6 +364,23 @@
       "shares": 1,
       "avg_watch_s": 18.34,
       "note": "Buffer metrics refreshed 2026-11-26 (TikTok 09:55 ET, YouTube 13:26 ET)"
+     },
+     "2026-11-27": {
+      "views": 911,
+      "reactions": 82,
+      "comments": 0,
+      "shares": 1,
+      "source": "Buffer metrics, refreshed 2026-11-27 13:56Z (TikTok) / 21:31Z (YouTube)",
+      "avg_watch_s": 20.1
+     }
+    },
+    "youtube": {
+     "2026-11-27": {
+      "views": 0,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "source": "Buffer metrics, refreshed 2026-11-27 13:56Z (TikTok) / 21:31Z (YouTube)"
      }
     }
    }
@@ -340,6 +423,14 @@
       "avg_watch_s": 35.28,
       "partial": "metrics taken ~1 h after posting",
       "note": "Buffer metrics refreshed 2026-11-26 (TikTok 09:55 ET, YouTube 13:26 ET)"
+     },
+     "2026-11-27": {
+      "views": 54,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "source": "Buffer metrics, refreshed 2026-11-27 13:56Z (TikTok) / 21:31Z (YouTube)",
+      "avg_watch_s": 33.6
      }
     }
    }
@@ -372,7 +463,18 @@
     "buffer_post_id": "6b05c8799694e6b5670493b0",
     "due": "2026-11-29T09:00:00-05:00"
    },
-   "stats": {}
+   "stats": {
+    "tiktok": {
+     "2026-11-27": {
+      "views": 123,
+      "reactions": 5,
+      "comments": 0,
+      "shares": 0,
+      "source": "Buffer metrics, refreshed 2026-11-27 13:56Z (TikTok) / 21:31Z (YouTube)",
+      "avg_watch_s": 23.74
+     }
+    }
+   }
   },
   {
    "id": "sprite-fright-3",
@@ -402,7 +504,18 @@
     "buffer_post_id": "6b05c87a9694e6b56704957d",
     "due": "2026-11-30T09:00:00-05:00"
    },
-   "stats": {}
+   "stats": {
+    "tiktok": {
+     "2026-11-27": {
+      "views": 274,
+      "reactions": 13,
+      "comments": 1,
+      "shares": 0,
+      "source": "Buffer metrics, refreshed 2026-11-27 13:56Z (TikTok) / 21:31Z (YouTube)",
+      "avg_watch_s": 31.5
+     }
+    }
+   }
   },
   {
    "id": "sprite-fright-4",
@@ -422,9 +535,10 @@
    "youtube_title": "Only one way out of this forest (Sprite Fright Part 4, finale) #shorts",
    "caption": "The ending flips the whole story. Who were the real monsters? Tell us below, and follow for the next story.",
    "tiktok": {
-    "status": "scheduled",
+    "status": "published",
     "buffer_post_id": "6b05c8773f48af62c2221572",
-    "due": "2026-11-27T09:00:00-05:00"
+    "due": "2026-11-27T09:00:00-05:00",
+    "link": "https://tiktok.com/@toonsprout0/video/7712851701325253902"
    },
    "youtube": {
     "status": "scheduled",
@@ -452,9 +566,10 @@
    "youtube_title": "Never bully the gentle bunny (Big Buck Bunny Part 1) #shorts",
    "caption": "All he wanted was a peaceful morning, but three forest bullies have other plans. Follow for Part 2.",
    "tiktok": {
-    "status": "scheduled",
+    "status": "published",
     "buffer_post_id": "6b063341615ec212af76fc6e",
-    "due": "2026-11-27T12:00:00-05:00"
+    "due": "2026-11-27T12:00:00-05:00",
+    "link": "https://tiktok.com/@toonsprout0/video/7712898368942509342"
    },
    "youtube": {
     "status": "rendered"
@@ -480,9 +595,10 @@
    "youtube_title": "They hurt his butterfly. Big mistake. (Big Buck Bunny Part 2) #shorts",
    "caption": "They hurt his butterfly. Big mistake. Now the gentle bunny has a plan. Part 3 next, follow for the payback.",
    "tiktok": {
-    "status": "scheduled",
+    "status": "published",
     "buffer_post_id": "6b063343f0b405190acab83a",
-    "due": "2026-11-27T16:00:00-05:00"
+    "due": "2026-11-27T16:00:00-05:00",
+    "link": "https://tiktok.com/@toonsprout0/video/7712959530824371469"
    },
    "youtube": {
     "status": "rendered"
@@ -542,6 +658,106 @@
    },
    "youtube": {
     "status": "rendered"
+   },
+   "stats": {}
+  },
+  {
+   "id": "elephants-dream-1",
+   "series": "Elephants Dream",
+   "part": 1,
+   "total": 4,
+   "source": "https://download.blender.org/ED/elephantsdream-720-h264-st-aac.mov",
+   "license": "CC BY 2.5 (archive.org lists CC BY 3.0 US)",
+   "evidence": "https://archive.org/details/ElephantsDream (licenseurl creativecommons.org/licenses/by/3.0/us, creator Orange Open Movie Project Studio); film released by Blender Foundation / Netherlands Media Art Institute under CC BY 2.5 (elephantsdream.org)",
+   "captions": "NO dialogue subtitles (no speech-to-text available: huggingface.co blocked). Only an end-of-part follow caption. Hold until Hunter OKs posting without dialogue subs.",
+   "cut": [
+    25.8,
+    152
+   ],
+   "file_url": "https://raw.githubusercontent.com/geenkid/toonsprout-videos/media/elephantsdream/ed_part1.mp4",
+   "youtube_title": "Two strangers trapped in an endless machine (Elephants Dream Part 1) #shorts",
+   "tiktok": {
+    "status": "rendered",
+    "hold": "awaiting subtitle decision 2026-11-27"
+   },
+   "youtube": {
+    "status": "rendered",
+    "hold": "awaiting subtitle decision 2026-11-27"
+   },
+   "stats": {}
+  },
+  {
+   "id": "elephants-dream-2",
+   "series": "Elephants Dream",
+   "part": 2,
+   "total": 4,
+   "source": "https://download.blender.org/ED/elephantsdream-720-h264-st-aac.mov",
+   "license": "CC BY 2.5 (archive.org lists CC BY 3.0 US)",
+   "evidence": "https://archive.org/details/ElephantsDream (licenseurl creativecommons.org/licenses/by/3.0/us, creator Orange Open Movie Project Studio); film released by Blender Foundation / Netherlands Media Art Institute under CC BY 2.5 (elephantsdream.org)",
+   "captions": "NO dialogue subtitles (no speech-to-text available: huggingface.co blocked). Only an end-of-part follow caption. Hold until Hunter OKs posting without dialogue subs.",
+   "cut": [
+    152,
+    282.1
+   ],
+   "file_url": "https://raw.githubusercontent.com/geenkid/toonsprout-videos/media/elephantsdream/ed_part2.mp4",
+   "youtube_title": "The machine is alive (Elephants Dream Part 2) #shorts",
+   "tiktok": {
+    "status": "rendered",
+    "hold": "awaiting subtitle decision 2026-11-27"
+   },
+   "youtube": {
+    "status": "rendered",
+    "hold": "awaiting subtitle decision 2026-11-27"
+   },
+   "stats": {}
+  },
+  {
+   "id": "elephants-dream-3",
+   "series": "Elephants Dream",
+   "part": 3,
+   "total": 4,
+   "source": "https://download.blender.org/ED/elephantsdream-720-h264-st-aac.mov",
+   "license": "CC BY 2.5 (archive.org lists CC BY 3.0 US)",
+   "evidence": "https://archive.org/details/ElephantsDream (licenseurl creativecommons.org/licenses/by/3.0/us, creator Orange Open Movie Project Studio); film released by Blender Foundation / Netherlands Media Art Institute under CC BY 2.5 (elephantsdream.org)",
+   "captions": "NO dialogue subtitles (no speech-to-text available: huggingface.co blocked). Only an end-of-part follow caption. Hold until Hunter OKs posting without dialogue subs.",
+   "cut": [
+    282.1,
+    426.6
+   ],
+   "file_url": "https://raw.githubusercontent.com/geenkid/toonsprout-videos/media/elephantsdream/ed_part3.mp4",
+   "youtube_title": "Something is wrong with the old man (Elephants Dream Part 3) #shorts",
+   "tiktok": {
+    "status": "rendered",
+    "hold": "awaiting subtitle decision 2026-11-27"
+   },
+   "youtube": {
+    "status": "rendered",
+    "hold": "awaiting subtitle decision 2026-11-27"
+   },
+   "stats": {}
+  },
+  {
+   "id": "elephants-dream-4",
+   "series": "Elephants Dream",
+   "part": 4,
+   "total": 4,
+   "source": "https://download.blender.org/ED/elephantsdream-720-h264-st-aac.mov",
+   "license": "CC BY 2.5 (archive.org lists CC BY 3.0 US)",
+   "evidence": "https://archive.org/details/ElephantsDream (licenseurl creativecommons.org/licenses/by/3.0/us, creator Orange Open Movie Project Studio); film released by Blender Foundation / Netherlands Media Art Institute under CC BY 2.5 (elephantsdream.org)",
+   "captions": "NO dialogue subtitles (no speech-to-text available: huggingface.co blocked). Only an end-of-part follow caption. Hold until Hunter OKs posting without dialogue subs.",
+   "cut": [
+    426.6,
+    556
+   ],
+   "file_url": "https://raw.githubusercontent.com/geenkid/toonsprout-videos/media/elephantsdream/ed_part4.mp4",
+   "youtube_title": "Who is really in control? (Elephants Dream Part 4, finale) #shorts",
+   "tiktok": {
+    "status": "rendered",
+    "hold": "awaiting subtitle decision 2026-11-27"
+   },
+   "youtube": {
+    "status": "rendered",
+    "hold": "awaiting subtitle decision 2026-11-27"
    },
    "stats": {}
   }
