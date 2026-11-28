@@ -788,7 +788,12 @@
    "evidence": "https://archive.org/details/BBOGulliversTravels1939 (licenseurl publicdomain/mark/1.0)",
    "notes": "76 min, ~25 parts; needs speech-to-text subtitles (faster-whisper; model download needs huggingface.co allowed)",
    "genre": "episodic cartoon adventure",
-   "blocked": "2026-11-25: huggingface.co is refused by the network proxy, so the Whisper model can't download. Needs huggingface.co allowed in the environment, or a decision to post without dialogue subtitles."
+   "blocked": "2026-11-25: huggingface.co is refused by the network proxy, so the Whisper model can't download. Needs huggingface.co allowed in the environment, or a decision to post without dialogue subtitles.",
+   "tags": [
+    "classic-cartoon",
+    "adventure",
+    "dialogue"
+   ]
   },
   {
    "series": "Caminandes: Llama Drama",
@@ -797,7 +802,12 @@
    "evidence": "Blender Foundation / caminandes.org",
    "notes": "~1.5 min, one episode, no dialogue",
    "genre": "funny animal",
-   "blocked": "2026-11-26: not on download.blender.org. Found on archive.org (Caminandes1LlamaDrama on dn600203, CaminandesLlamigos on dn800304, both CC BY 3.0) but those storage hosts are refused by the network proxy."
+   "blocked": "2026-11-26: not on download.blender.org. Found on archive.org (Caminandes1LlamaDrama on dn600203, CaminandesLlamigos on dn800304, both CC BY 3.0) but those storage hosts are refused by the network proxy.",
+   "tags": [
+    "funny-animal",
+    "comedy",
+    "no-dialogue"
+   ]
   },
   {
    "series": "Caminandes: Llamigos",
@@ -806,7 +816,12 @@
    "evidence": "Blender Studio",
    "notes": "~2.5 min, one episode, no dialogue",
    "genre": "funny animal",
-   "blocked": "2026-11-26: not on download.blender.org. Found on archive.org (Caminandes1LlamaDrama on dn600203, CaminandesLlamigos on dn800304, both CC BY 3.0) but those storage hosts are refused by the network proxy."
+   "blocked": "2026-11-26: not on download.blender.org. Found on archive.org (Caminandes1LlamaDrama on dn600203, CaminandesLlamigos on dn800304, both CC BY 3.0) but those storage hosts are refused by the network proxy.",
+   "tags": [
+    "funny-animal",
+    "comedy",
+    "no-dialogue"
+   ]
   },
   {
    "series": "Cosmos Laundromat: First Cycle",
@@ -815,7 +830,12 @@
    "evidence": "https://archive.org/details/CosmosLaundromatFirstCycle (licenseurl CC BY 4.0, creator Blender Foundation)",
    "notes": "~12 min, ~5 parts, English subtitles included",
    "genre": "surreal comedy/drama",
-   "blocked": "2026-11-26: dn600201.us.archive.org refused by the network proxy"
+   "blocked": "2026-11-26: dn600201.us.archive.org refused by the network proxy",
+   "tags": [
+    "surreal",
+    "funny-animal",
+    "dialogue"
+   ]
   },
   {
    "series": "Wing It!",
@@ -824,7 +844,66 @@
    "evidence": "https://archive.org/details/wing_it (licenseurl CC BY 4.0, creator Blender Studio); confirm on studio.blender.org end card",
    "notes": "~4 min, 2 parts, no dialogue",
    "genre": "funny animal",
-   "blocked": "2026-11-26: ia803106.us.archive.org refused by the network proxy"
+   "blocked": "2026-11-26: ia803106.us.archive.org refused by the network proxy",
+   "tags": [
+    "funny-animal",
+    "comedy",
+    "no-dialogue"
+   ]
+  },
+  {
+   "series": "Coffee Run",
+   "download": "find direct file on studio.blender.org/films/ or archive.org",
+   "license": "CC BY 4.0 (confirm on studio.blender.org and end card)",
+   "evidence": "Blender Studio open movie, 2020",
+   "notes": "~3 min, no dialogue, fast and funny",
+   "genre": "comedy",
+   "tags": [
+    "comedy",
+    "no-dialogue",
+    "action"
+   ],
+   "added": "2026-11-28 by trending-score thread, license not yet confirmed"
+  },
+  {
+   "series": "Glass Half",
+   "download": "find direct file on studio.blender.org/films/ or archive.org",
+   "license": "CC BY (confirm version on studio.blender.org and end card)",
+   "evidence": "Blender Studio open movie, 2015",
+   "notes": "~3 min, no dialogue, comedy",
+   "genre": "comedy",
+   "tags": [
+    "comedy",
+    "no-dialogue"
+   ],
+   "added": "2026-11-28 by trending-score thread, license not yet confirmed"
+  },
+  {
+   "series": "Agent 327: Operation Barbershop",
+   "download": "find direct file on studio.blender.org/films/ or archive.org",
+   "license": "CC BY (confirm on studio.blender.org and end card; character comes from a comic, so check the film's own license covers reuse)",
+   "evidence": "Blender Studio open movie, 2017",
+   "notes": "~4 min, little dialogue, action comedy, 2 parts",
+   "genre": "action comedy",
+   "tags": [
+    "action",
+    "comedy",
+    "no-dialogue"
+   ],
+   "added": "2026-11-28 by trending-score thread, license not yet confirmed"
+  },
+  {
+   "series": "Charge",
+   "download": "find direct file on studio.blender.org/films/",
+   "license": "CC BY 4.0 (confirm on studio.blender.org and end card)",
+   "evidence": "Blender Studio open movie, 2022",
+   "notes": "~4 min, action, little dialogue, 2 parts",
+   "genre": "action",
+   "tags": [
+    "action",
+    "no-dialogue"
+   ],
+   "added": "2026-11-28 by trending-score thread, license not yet confirmed"
   }
  ],
  "youtube_spacing_rule": "YouTube (via Buffer) allows 2 posts per ROLLING 24 h, and Buffer sends a few minutes late. Each YouTube post must be more than 24 h after the YouTube post two before it. Using only the 9 AM / 12 PM slots that gives the pattern 9+12, 12, 9, 9+12, 12, 9 ... (4 posts per 3 days). Example from 2026-11-27: 27th 9+12, 28th 12, 29th 9, 30th 9+12, Dec 1 12, Dec 2 9.",
@@ -833,5 +912,412 @@
    "series": "Tears of Steel",
    "reason": "2026-11-26: film is CC BY 3.0 but its soundtrack (copyright.txt on download.blender.org/demo/movies/ToS/) is CC BY-ND 3.0; editing would be a derivative, so skipped under the licensing rule."
   }
- ]
+ ],
+ "series_meta": {
+  "Sintel": {
+   "tags": [
+    "fantasy",
+    "creature",
+    "emotional",
+    "dialogue"
+   ]
+  },
+  "Sprite Fright": {
+   "tags": [
+    "spooky",
+    "comedy",
+    "creature",
+    "dialogue"
+   ]
+  },
+  "Big Buck Bunny": {
+   "tags": [
+    "funny-animal",
+    "comedy",
+    "no-dialogue"
+   ]
+  },
+  "Caminandes: Gran Dillama": {
+   "tags": [
+    "funny-animal",
+    "comedy",
+    "no-dialogue"
+   ]
+  },
+  "Elephants Dream": {
+   "tags": [
+    "surreal",
+    "dialogue"
+   ]
+  }
+ },
+ "tag_priors": {
+  "_note": "Starting guesses (0-100) for tags with fewer than 2 scored posts, from Nov 2026 short-form research: animal and comedy content gets the most views, spooky/creature stories do well for faceless story channels, surreal/abstract does worst. Measured tag scores replace these as data comes in.",
+  "funny-animal": 70,
+  "comedy": 65,
+  "spooky": 65,
+  "creature": 60,
+  "fantasy": 55,
+  "action": 60,
+  "no-dialogue": 55,
+  "emotional": 50,
+  "dialogue": 50,
+  "classic-cartoon": 50,
+  "adventure": 50,
+  "surreal": 35
+ },
+ "trending": {
+  "computed_at": "2026-11-28T02:44+00:00",
+  "formula": "0.65*pct(views_per_hour) + 0.25*pct(like_rate) + 0.10*pct(share_rate), percentiles within platform, snapshot nearest 48 h after posting",
+  "platforms": {
+   "tiktok": {
+    "posts": 8,
+    "enough_data": true
+   },
+   "youtube": {
+    "posts": 4,
+    "enough_data": false
+   }
+  },
+  "series": {
+   "Sintel": {
+    "score": 50.1,
+    "posts": 5,
+    "views_per_hour": 7.21
+   },
+   "Sprite Fright": {
+    "score": 49.8,
+    "posts": 3,
+    "views_per_hour": 8.1
+   }
+  },
+  "tags": {
+   "fantasy": {
+    "score": 50.1,
+    "posts": 5,
+    "views_per_hour": 7.21
+   },
+   "emotional": {
+    "score": 50.1,
+    "posts": 5,
+    "views_per_hour": 7.21
+   },
+   "creature": {
+    "score": 50.0,
+    "posts": 8,
+    "views_per_hour": 7.54
+   },
+   "dialogue": {
+    "score": 50.0,
+    "posts": 8,
+    "views_per_hour": 7.54
+   },
+   "spooky": {
+    "score": 49.8,
+    "posts": 3,
+    "views_per_hour": 8.1
+   },
+   "comedy": {
+    "score": 49.8,
+    "posts": 3,
+    "views_per_hour": 8.1
+   }
+  },
+  "posts": [
+   {
+    "id": "sintel-5",
+    "series": "Sintel",
+    "part": 5,
+    "platform": "tiktok",
+    "hours": 40.9,
+    "views": 911,
+    "views_per_hour": 22.2557,
+    "like_rate": 0.09,
+    "share_rate": 0.0011,
+    "avg_watch_s": 20.1,
+    "hook": "Wait for|the twist...",
+    "pct_views_per_hour": 100.0,
+    "pct_like_rate": 100.0,
+    "pct_share_rate": 100.0,
+    "trending_score": 100.0
+   },
+   {
+    "id": "sprite-fright-3",
+    "series": "Sprite Fright",
+    "part": 3,
+    "platform": "tiktok",
+    "hours": 16.9,
+    "views": 274,
+    "views_per_hour": 16.1811,
+    "like_rate": 0.0474,
+    "share_rate": 0.0,
+    "avg_watch_s": 31.5,
+    "hook": "Run!!!",
+    "pct_views_per_hour": 85.7,
+    "pct_like_rate": 57.1,
+    "pct_share_rate": 42.9,
+    "trending_score": 74.3
+   },
+   {
+    "id": "sintel-1",
+    "series": "Sintel",
+    "part": 1,
+    "platform": "tiktok",
+    "hours": 45.6,
+    "views": 322,
+    "views_per_hour": 7.0588,
+    "like_rate": 0.0497,
+    "share_rate": 0.0,
+    "avg_watch_s": 10.75,
+    "hook": "Alone. Wounded.|Hunting a dragon.",
+    "pct_views_per_hour": 71.4,
+    "pct_like_rate": 71.4,
+    "pct_share_rate": 42.9,
+    "trending_score": 68.6
+   },
+   {
+    "id": "sprite-fright-2",
+    "series": "Sprite Fright",
+    "part": 2,
+    "platform": "tiktok",
+    "hours": 20.9,
+    "views": 123,
+    "views_per_hour": 5.8758,
+    "like_rate": 0.0407,
+    "share_rate": 0.0,
+    "avg_watch_s": 23.74,
+    "hook": "The cute forest|creatures...|aren't so cute.",
+    "pct_views_per_hour": 57.1,
+    "pct_like_rate": 42.9,
+    "pct_share_rate": 42.9,
+    "trending_score": 52.1
+   },
+   {
+    "id": "sintel-4",
+    "series": "Sintel",
+    "part": 4,
+    "platform": "tiktok",
+    "hours": 44.9,
+    "views": 174,
+    "views_per_hour": 3.8724,
+    "like_rate": 0.0402,
+    "share_rate": 0.0,
+    "avg_watch_s": 10.98,
+    "hook": "The dragon's lair.|No turning back.",
+    "pct_views_per_hour": 42.9,
+    "pct_like_rate": 28.6,
+    "pct_share_rate": 42.9,
+    "trending_score": 39.3
+   },
+   {
+    "id": "sintel-2",
+    "series": "Sintel",
+    "part": 2,
+    "platform": "tiktok",
+    "hours": 41.9,
+    "views": 35,
+    "views_per_hour": 0.835,
+    "like_rate": 0.0571,
+    "share_rate": 0.0,
+    "avg_watch_s": 22.81,
+    "hook": "Her only friend|was a baby dragon.",
+    "pct_views_per_hour": 0.0,
+    "pct_like_rate": 85.7,
+    "pct_share_rate": 42.9,
+    "trending_score": 25.7
+   },
+   {
+    "id": "sprite-fright-1",
+    "series": "Sprite Fright",
+    "part": 1,
+    "platform": "tiktok",
+    "hours": 23.9,
+    "views": 54,
+    "views_per_hour": 2.2563,
+    "like_rate": 0.0,
+    "share_rate": 0.0,
+    "avg_watch_s": 33.6,
+    "hook": "Camping trip.|What could go wrong?",
+    "pct_views_per_hour": 28.6,
+    "pct_like_rate": 0.0,
+    "pct_share_rate": 42.9,
+    "trending_score": 22.9
+   },
+   {
+    "id": "sintel-3",
+    "series": "Sintel",
+    "part": 3,
+    "platform": "tiktok",
+    "hours": 47.9,
+    "views": 97,
+    "views_per_hour": 2.0236,
+    "like_rate": 0.0103,
+    "share_rate": 0.0,
+    "avg_watch_s": 11.88,
+    "hook": "Years of searching.|Then, a clue.",
+    "pct_views_per_hour": 14.3,
+    "pct_like_rate": 14.3,
+    "pct_share_rate": 42.9,
+    "trending_score": 17.1
+   },
+   {
+    "id": "sintel-1",
+    "series": "Sintel",
+    "part": 1,
+    "platform": "youtube",
+    "hours": 45.6,
+    "views": 1,
+    "views_per_hour": 0.0219,
+    "like_rate": 0.0,
+    "share_rate": 0.0,
+    "avg_watch_s": null,
+    "hook": "Alone. Wounded.|Hunting a dragon.",
+    "pct_views_per_hour": 100.0,
+    "pct_like_rate": 50.0,
+    "pct_share_rate": 50.0,
+    "trending_score": 82.5
+   },
+   {
+    "id": "sintel-2",
+    "series": "Sintel",
+    "part": 2,
+    "platform": "youtube",
+    "hours": 31.5,
+    "views": 0,
+    "views_per_hour": 0.0,
+    "like_rate": 0.0,
+    "share_rate": 0.0,
+    "avg_watch_s": null,
+    "hook": "Her only friend|was a baby dragon.",
+    "pct_views_per_hour": 33.3,
+    "pct_like_rate": 50.0,
+    "pct_share_rate": 50.0,
+    "trending_score": 39.2
+   },
+   {
+    "id": "sintel-3",
+    "series": "Sintel",
+    "part": 3,
+    "platform": "youtube",
+    "hours": 52.5,
+    "views": 0,
+    "views_per_hour": 0.0,
+    "like_rate": 0.0,
+    "share_rate": 0.0,
+    "avg_watch_s": null,
+    "hook": "Years of searching.|Then, a clue.",
+    "pct_views_per_hour": 33.3,
+    "pct_like_rate": 50.0,
+    "pct_share_rate": 50.0,
+    "trending_score": 39.2
+   },
+   {
+    "id": "sintel-4",
+    "series": "Sintel",
+    "part": 4,
+    "platform": "youtube",
+    "hours": 7.5,
+    "views": 0,
+    "views_per_hour": 0.0,
+    "like_rate": 0.0,
+    "share_rate": 0.0,
+    "avg_watch_s": null,
+    "hook": "The dragon's lair.|No turning back.",
+    "pct_views_per_hour": 33.3,
+    "pct_like_rate": 50.0,
+    "pct_share_rate": 50.0,
+    "trending_score": 39.2
+   }
+  ],
+  "queue_ranking": [
+   {
+    "series": "Coffee Run",
+    "predicted_score": 58.1,
+    "blocked": false,
+    "tags": [
+     "comedy",
+     "no-dialogue",
+     "action"
+    ]
+   },
+   {
+    "series": "Agent 327: Operation Barbershop",
+    "predicted_score": 58.1,
+    "blocked": false,
+    "tags": [
+     "action",
+     "comedy",
+     "no-dialogue"
+    ]
+   },
+   {
+    "series": "Charge",
+    "predicted_score": 57.5,
+    "blocked": false,
+    "tags": [
+     "action",
+     "no-dialogue"
+    ]
+   },
+   {
+    "series": "Glass Half",
+    "predicted_score": 57.1,
+    "blocked": false,
+    "tags": [
+     "comedy",
+     "no-dialogue"
+    ]
+   },
+   {
+    "series": "Caminandes: Llama Drama",
+    "predicted_score": 61.4,
+    "blocked": true,
+    "tags": [
+     "funny-animal",
+     "comedy",
+     "no-dialogue"
+    ]
+   },
+   {
+    "series": "Caminandes: Llamigos",
+    "predicted_score": 61.4,
+    "blocked": true,
+    "tags": [
+     "funny-animal",
+     "comedy",
+     "no-dialogue"
+    ]
+   },
+   {
+    "series": "Wing It!",
+    "predicted_score": 61.4,
+    "blocked": true,
+    "tags": [
+     "funny-animal",
+     "comedy",
+     "no-dialogue"
+    ]
+   },
+   {
+    "series": "Cosmos Laundromat: First Cycle",
+    "predicted_score": 51.7,
+    "blocked": true,
+    "tags": [
+     "surreal",
+     "funny-animal",
+     "dialogue"
+    ]
+   },
+   {
+    "series": "Gulliver's Travels (1939)",
+    "predicted_score": 50.0,
+    "blocked": true,
+    "tags": [
+     "classic-cartoon",
+     "adventure",
+     "dialogue"
+    ]
+   }
+  ]
+ }
 }
